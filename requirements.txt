@@ -1,7 +1,8 @@
-flask
-google-generativeai
+streamlit
 python-dotenv
+google-generativeai
 pandas
+numpy
 scikit-learn
 xgboost
-streamlit
+joblib
