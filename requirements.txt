@@ -1,0 +1,7 @@
+flask
+google-generativeai
+python-dotenv
+pandas
+scikit-learn
+xgboost
+tensorflow

@@ -1,0 +1,5 @@
+HealthTech startup, 50 employees, remote-first culture
+position_details\": \"ML Engineer, Mid-level, reports to Head of AI
+project_requirements\": \"NLP chatbot using Hugging Face, TensorFlow
+team_dynamics\": \"2 Data Scientists, Agile cross-functional team
+recruitment_goals\": \"3 months, ₹15L, 40% diversity target
